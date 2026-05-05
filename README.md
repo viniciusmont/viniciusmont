@@ -1,8 +1,3 @@
-Perfeito. Já vou te entregar pronto pra colar — só criar o repo viniciusmont e jogar isso no README.md.
-
-⸻
-
-# Vinicius Montenegro Silva
 ### Senior Backend Engineer | Java | Spring Boot | Microservices | Data Architecture | Observability
 I am a Senior Backend Developer focused on building backend systems that are reliable, maintainable and ready to evolve.
 My experience combines backend engineering, data architecture, integrations and enterprise systems. I have worked with Java, Spring Boot, microservices, Oracle SQL, ETL, ODI, BI, REST APIs and SOAP integrations.
